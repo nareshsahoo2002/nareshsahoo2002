@@ -1,89 +1,61 @@
-<h1 align="center">Hi 👋, I'm Naresh Sahoo</h1>
-<h3 align="center">MCA Student | Aspiring Software Developer | Java & Web Development Enthusiast</h3>
+<!--- HEADER / INTRODUCTION —--->
+<h1 align="center">👋 Hi, I’m **Naresh Sahoo**</h1>
+<h3 align="center">MCA Student • Java & Web Developer • Backend + Full-Stack Enthusiast</h3>
 
 ---
 
-## 🚀 About Me  
-I’m a Master of Computer Applications (MCA) student passionate about building **full-stack web applications**, solving problems, and continuously learning new technologies.  
-I have a strong foundation in programming, web development, and database management, and I enjoy creating efficient and user-friendly applications.
+### 🔭 I’m currently
+- Doing my Master of Computer Applications (MCA)  
+- Building backend and web applications using Java, JSP/Servlets, MySQL  
+- Practicing data structures & algorithms regularly on LeetCode  
+- Learning full-stack development (backend + basic frontend / UI)
 
 ---
 
-## 🎓 Education  
-- **Master of Computer Applications (MCA)** – Gandhi Engineering College, Bhubaneswar (**CGPA: 8.75**)  
-- **Bachelor of Science** – Pattamundai (Degree) College (**83.10%**)  
-- **12th** – Kendrapara Higher Secondary School (**71.83%**)  
-- **10th** – Chandiagari Nodal High School (**87.33%**)  
+### 🛠️ Tech & Tools I Work With  
+**Languages:** Java · C / C++ · JavaScript · HTML · CSS  
+**Backend / Frameworks:** JSP / Servlets · JDBC · MySQL · REST APIs  
+**Frontend & Others:** Basic HTML/CSS/JS · React (learning) · Android (basic UI)  
+**Tools & IDEs:** Git, GitHub, VS Code, Eclipse, IntelliJ IDEA  
 
 ---
 
-## 🛠️ Technical Skills  
-- **Programming:** Java, C, C++  
-- **Frontend:** HTML, CSS, JavaScript, React.js  
-- **Backend:** JSP, Servlets, JDBC  
-- **Database:** MySQL  
-- **Tools & IDEs:** VS Code, Eclipse, IntelliJ IDEA  
-- **Version Control:** Git, GitHub  
+### 📦 What I’ve Built / Projects  
+| Project | Tech Stack / What it does |
+|--------:|:-------------------------|
+| **Hospital Management System** | JSP + Servlets + JDBC + MySQL + HTML/CSS/JS — Full hospital-management logic (doctors/patients, appointments, authentication) |
+| **Login & Registration System** | Java + JSP/Servlets + JDBC + MySQL — Secure user auth & database-backed login/register |
+| **Expense Tracker Web App** | HTML + CSS + JavaScript (localStorage) — Simple responsive front-end web app for managing expenses |
+| *(Add more projects here as you build them…)* |  |
 
 ---
 
-## 💼 Internship Experience  
-### **Web Development Intern – CodeAlpha**  
-- Built a **personal portfolio website** using HTML, CSS, JavaScript.  
-- Developed an **Expense Tracker Web App** with local storage for managing daily expenses.  
+### 🎯 What I’m Looking For  
+- Internship / full-time opportunities as **Java / Backend / Full-Stack Developer**  
+- Projects to contribute to and build real-world apps with clean architecture  
+- Learning and growing in web development, backend, databases, API design, microservices  
 
 ---
 
-## 📂 Projects  
-
-### 🏥 **Hospital Management System**  
-**Tech:** JSP, Servlets, JDBC, MySQL, HTML, CSS, JavaScript, Bootstrap, FontAwesome, Apache Tomcat  
-- Built a full hospital management system with doctor & patient modules.  
-- Implemented appointment scheduling, authentication, and secure data processing.  
-
----
-
-### 🔐 **Login & Registration Management System**  
-**Tech:** HTML, CSS, Java, JSP, Servlet, JDBC, MySQL  
-- Created secure login and registration modules.  
-- Handles user authentication and credential management using MySQL.
+### 💬 About Me (Soft & Personal)  
+- Good team-player & fast learner  
+- Strong in problem-solving and logical thinking  
+- Always interested in building things rather than just learning  
+- Hobbies: Exploring new technologies, listening to music, playing cricket  
 
 ---
 
-### 💰 **Expense Tracker Web Application**  
-**Tech:** HTML, CSS, JavaScript  
-- Responsive web app for managing expenses.  
-- Added, edited, deleted expenses with persistent storage using local storage.
+### 📫 How to Reach Me  
+GitHub: [github.com/nareshsahoo2002](https://github.com/nareshsahoo2002)  
+(You can also add LinkedIn, email or portfolio link if you want)  
 
 ---
 
-## 🧠 Soft Skills  
-- Teamwork  
-- Communication  
-- Problem-Solving  
-
----
-
-## 🎧 Hobbies  
-- Listening to music  
-- Exploring new technologies  
-- Playing cricket  
-
----
-
-## 📫 Connect With Me  
-- **GitHub:** [github.com/nareshsahoo2002](https://github.com/nareshsahoo2002)  
-- **LinkedIn:** https://linkedin.com/in/naresh-sahoo-a09068286  
-- **Email:** nareshsahoo2002@gmail.com  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nareshsahoo2002&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=nareshsahoo2002&theme=tokyonight" />
+### 📈 GitHub Stats  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=nareshsahoo2002&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  
 </p>
 
 ---
 
-<p align="center"><b>⭐ “Learning Never Stops — Keep Building, Keep Growing.” ⭐</b></p>
+> “Learning never stops — keep coding, keep building.”  
