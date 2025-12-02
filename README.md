@@ -1,70 +1,89 @@
 <h1 align="center">Hi 👋, I'm Naresh Sahoo</h1>
-<h3 align="center">Aspiring Software Developer | Java Backend Developer | MCA Student</h3>
+<h3 align="center">MCA Student | Aspiring Software Developer | Java & Web Development Enthusiast</h3>
 
 ---
 
-### 🔥 About Me  
-- 🎓 MCA Student at Gandhi Institute of Technology  
-- 💻 Strong in **Java, Spring Boot, MySQL, PostgreSQL**  
-- 🌱 Currently learning **Microservices & Backend Development**  
-- 📚 Solving DSA on **LeetCode**  
-- 🚀 Aim: Become a **Software Developer in top companies like Amazon / Google**
+## 🚀 About Me  
+I’m a Master of Computer Applications (MCA) student passionate about building **full-stack web applications**, solving problems, and continuously learning new technologies.  
+I have a strong foundation in programming, web development, and database management, and I enjoy creating efficient and user-friendly applications.
 
 ---
 
-### 🛠️ Tech Stack
-
-**Programming Languages:**  
-Java | JavaScript | SQL | HTML | CSS  
-
-**Backend / Frameworks:**  
-Spring Boot | Servlets | JSP | JDBC | REST APIs  
-
-**Frontend Tools:**  
-React (Basics) | Android Studio Basics  
-
-**Databases:**  
-MySQL | PostgreSQL  
-
-**Tools & Platforms:**  
-Git | GitHub | IntelliJ IDEA | VS Code
+## 🎓 Education  
+- **Master of Computer Applications (MCA)** – Gandhi Engineering College, Bhubaneswar (**CGPA: 8.75**)  
+- **Bachelor of Science** – Pattamundai (Degree) College (**83.10%**)  
+- **12th** – Kendrapara Higher Secondary School (**71.83%**)  
+- **10th** – Chandiagari Nodal High School (**87.33%**)  
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Technical Skills  
+- **Programming:** Java, C, C++  
+- **Frontend:** HTML, CSS, JavaScript, React.js  
+- **Backend:** JSP, Servlets, JDBC  
+- **Database:** MySQL  
+- **Tools & IDEs:** VS Code, Eclipse, IntelliJ IDEA  
+- **Version Control:** Git, GitHub  
 
+---
+
+## 💼 Internship Experience  
+### **Web Development Intern – CodeAlpha**  
+- Built a **personal portfolio website** using HTML, CSS, JavaScript.  
+- Developed an **Expense Tracker Web App** with local storage for managing daily expenses.  
+
+---
+
+## 📂 Projects  
+
+### 🏥 **Hospital Management System**  
+**Tech:** JSP, Servlets, JDBC, MySQL, HTML, CSS, JavaScript, Bootstrap, FontAwesome, Apache Tomcat  
+- Built a full hospital management system with doctor & patient modules.  
+- Implemented appointment scheduling, authentication, and secure data processing.  
+
+---
+
+### 🔐 **Login & Registration Management System**  
+**Tech:** HTML, CSS, Java, JSP, Servlet, JDBC, MySQL  
+- Created secure login and registration modules.  
+- Handles user authentication and credential management using MySQL.
+
+---
+
+### 💰 **Expense Tracker Web Application**  
+**Tech:** HTML, CSS, JavaScript  
+- Responsive web app for managing expenses.  
+- Added, edited, deleted expenses with persistent storage using local storage.
+
+---
+
+## 🧠 Soft Skills  
+- Teamwork  
+- Communication  
+- Problem-Solving  
+
+---
+
+## 🎧 Hobbies  
+- Listening to music  
+- Exploring new technologies  
+- Playing cricket  
+
+---
+
+## 📫 Connect With Me  
+- **GitHub:** [github.com/nareshsahoo2002](https://github.com/nareshsahoo2002)  
+- **LinkedIn:** https://linkedin.com/in/naresh-sahoo-a09068286  
+- **Email:** nareshsahoo2002@gmail.com  
+
+---
+
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nareshsahoo2002&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nareshsahoo2002&theme=tokyonight" height="150"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nareshsahoo2002&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=nareshsahoo2002&theme=tokyonight" />
 </p>
 
 ---
 
-### 🚀 Projects
-
-- **Smart City Guider** – Java | JSP | Servlets | MySQL  
-  ✔ Provides hotel info, transport details, ticket booking, shopping info  
-
-- **Android Apps (Basic Level)**  
-  ✔ College projects & UI-based applications  
-
-- **Spring Boot REST API Projects**  
-  ✔ CRUD operations, Authentication, Filters  
-
----
-
-### 🏆 Certificates & Experience
-- ✔ Completed Online Internship  
-- ✔ Experienced in SAP MM Module  
-- ✔ Many DSA Problems Solved in LeetCode
-
----
-
-### 📫 Connect With Me  
-📧 Email: **your-email-here**  
-🔗 GitHub: **https://github.com/nareshsahoo2002**
-
----
-
-### ⚡ Quote  
-*"Consistency beats talent. Keep learning, keep building."*
+<p align="center"><b>⭐ “Learning Never Stops — Keep Building, Keep Growing.” ⭐</b></p>
