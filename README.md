@@ -26,7 +26,7 @@
 | **Hospital Management System** | JSP + Servlets + JDBC + MySQL + HTML/CSS/JS — Full hospital-management logic (doctors/patients, appointments, authentication) |
 | **Login & Registration System** | Java + JSP/Servlets + JDBC + MySQL — Secure user auth & database-backed login/register |
 | **Expense Tracker Web App** | HTML + CSS + JavaScript (localStorage) — Simple responsive front-end web app for managing expenses |
-| *(Add more projects here as you build them…)* |  |
+
 
 ---
 
@@ -47,7 +47,7 @@
 
 ### 📫 How to Reach Me  
 GitHub: [github.com/nareshsahoo2002](https://github.com/nareshsahoo2002)  
-(You can also add LinkedIn, email or portfolio link if you want)  
+
 
 ---
 
